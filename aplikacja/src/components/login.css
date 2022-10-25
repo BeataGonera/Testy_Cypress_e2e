@@ -1,0 +1,24 @@
+.login-form {
+    border: 1px solid gray;
+    padding: 2rem;
+    background-color: white;
+    color: gray;
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin: .5rem;
+}
+
+input {
+    padding: .25rem;
+}
+
+button {
+    margin: .5rem;
+    padding: .5rem;
+    color: rgb(77, 116, 193);
+    font-weight: bold;
+    text-transform: uppercase;
+}
